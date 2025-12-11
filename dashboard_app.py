@@ -45,14 +45,19 @@ st.write("**Interactive dashboard for category insights, language trends, top fi
 st.markdown("---")
 
 # ======== KPI CARDS ========
-total_views = filtered_df["Number_of_Views"].sum()
-avg_rating = round(filtered_df["Viewer_Rate"].mean(), 2)
-top_category = filtered_df.groupby("Category")["Number_of_Views"].sum().idxmax()
+total_views = df["Number_of_Views"].sum()
+avg_rating = round(df["Viewer_Rate"].mean(), 2)
+top_category = df.groupby("Category")["Number_of_Views"].sum().idxmax()
+top_language = df.groupby("Language")["Number_of_Views"].sum().idxmax()
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
+
 col1.metric("📈 Total Views", f"{total_views:,}")
 col2.metric("⭐ Average Viewer Rate", avg_rating)
 col3.metric("🏆 Most Popular Category", top_category)
+col4.metric("🌍 Top Language", top_language)
+
+
 
 
 # ======== TABS ========
@@ -76,16 +81,9 @@ with tab1:
 # ========================= TAB 2 =========================
 
 with tab2:
-    st.subheader("Category & Language Performance Overview")
+    st.subheader("Language Performance Overview")
 
-    # CATEGORY PERFORMANCE
-    st.markdown("### Views by Category")
-    cat_views = filtered_df.groupby("Category")["Number_of_Views"].sum()
 
-    if not cat_views.empty:
-        st.bar_chart(cat_views)
-    else:
-        st.warning("No data available for selected filters.")
 
     # LANGUAGE PERFORMANCE
     st.markdown("### Views by Language")
@@ -115,20 +113,6 @@ with tab3:
 with tab4:
     st.subheader("🎯 Predicted Most-Loved Films for 2026")
 
-    # ================= FILM PREDICTION =================
-    st.markdown("### 🔹 Top 10 Films (Predicted Popularity)")
-    film_pred = (
-        df.groupby("Film_Name")["Popularity_Score"]
-        .mean()
-        .sort_values(ascending=False)
-        .head(10)
-    )
-
-    film_pred_df = film_pred.reset_index()
-    film_pred_df.columns = ["Film_Name", "Predicted_Popularity"]
-
-    st.write(film_pred_df)
-    st.line_chart(film_pred_df.set_index("Film_Name"))
 
     # ================= CATEGORY PREDICTION =================
     st.markdown("### 🔹 Predicted Best-Performing Categories in 2026")
