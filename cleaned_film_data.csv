@@ -1,0 +1,461 @@
+Film_Name,Release_Date,Category,Language,Viewer_Rate,Number_of_Views,Viewing_Month,Unique_ID,Popularity_Score
+Chennai Express,9/12/2021,Romance,Hindi,4.5,36395,2022-09-01,Chennai Express_Hindi_Romance,21838.8
+Mountain Trail,4/27/2020,Comedy,English,3.5,93162,2021-07-01,Mountain Trail_English_Comedy,55898.6
+Eternal Hope,7/4/2020,Romance,English,4.6,98663,2021-04-01,Eternal Hope_English_Romance,59199.63999999999
+Seoul Heartbeat,4/17/2020,Comedy,English,4.1,112635,2020-07-01,Seoul Heartbeat_English_Comedy,67582.64
+Shadow Pact,2/24/2022,Documentary,English,4.3,29496,2023-05-01,Shadow Pact_English_Documentary,17699.32
+Sunset Vows,6/22/2020,Drama/Thriller,English,4.7,82472,2022-05-01,Sunset Vows_English_Drama/Thriller,49485.079999999994
+Mountain Trail,5/30/2024,Horror,English,4.9,56001,2024-08-01,Mountain Trail_English_Horror,33602.56
+Kochi Waves,12/8/2022,Horror,English,4.5,55228,2024-06-01,Kochi Waves_English_Horror,33138.6
+Eternal Hope,2/12/2022,Comedy,English,4.2,91149,2022-06-01,Eternal Hope_English_Comedy,54691.08
+Seoul Heartbeat,5/14/2021,Comedy,English,3.6,88038,2023-01-01,Seoul Heartbeat_English_Comedy,52824.24
+Midnight Train,1/8/2020,Documentary,English,4.6,39793,2021-02-01,Midnight Train_English_Documentary,23877.64
+Taipei Secrets,11/27/2022,Action/Sci-Fi,English,4.6,123996,2023-12-01,Taipei Secrets_English_Action/Sci-Fi,74399.43999999999
+Mirror Maze,3/31/2022,Romance,English,3.9,95604,2023-10-01,Mirror Maze_English_Romance,57363.96
+Taipei Secrets,3/4/2022,Documentary,English,4.6,31561,2022-04-01,Taipei Secrets_English_Documentary,18938.44
+Silent Echoes,12/12/2021,Romance,English,3.9,93843,2022-08-01,Silent Echoes_English_Romance,56307.35999999999
+Digital Dawn,9/11/2024,Horror,English,3.7,63936,2025-07-01,Digital Dawn_English_Horror,38363.08
+A Summer Dream,2/10/2020,Comedy,English,4.1,90310,2021-04-01,A Summer Dream_English_Comedy,54187.64
+Tech Singularity,4/7/2020,Horror,English,4.5,62864,2021-06-01,Tech Singularity_English_Horror,37720.200000000004
+Love in the Frost,9/2/2020,Romance,English,3.9,170350,2022-02-01,Love in the Frost_English_Romance,102211.56
+Lahore Nights,8/16/2021,Romance,English,4.2,171661,2023-02-01,Lahore Nights_English_Romance,102998.27999999998
+Seoul Heartbeat,7/22/2021,Action/Sci-Fi,English,3.8,126968,2022-12-01,Seoul Heartbeat_English_Action/Sci-Fi,76182.32
+The King's Guard,4/6/2022,Horror,English,4.7,51223,2022-09-01,The King's Guard_English_Horror,30735.68
+The Last Samurai,3/5/2023,Romance,English,3.9,102688,2023-04-01,The Last Samurai_English_Romance,61614.35999999999
+Heartbreak Hotel,9/15/2021,Comedy,English,4.0,106348,2023-08-01,Heartbreak Hotel_English_Comedy,63810.399999999994
+Mumbai Saga,9/6/2022,Action/Sci-Fi,English,4.9,120974,2023-05-01,Mumbai Saga_English_Action/Sci-Fi,72586.36
+The Quantum Helix,6/16/2020,Horror,English,4.4,128852,2021-10-01,The Quantum Helix_English_Horror,77312.95999999999
+The Green Line,3/12/2021,Drama/Thriller,English,3.6,93485,2022-12-01,The Green Line_English_Drama/Thriller,56092.44
+Midnight Train,8/3/2020,Comedy,English,4.4,90856,2020-10-01,Midnight Train_English_Comedy,54515.36
+Mountain Trail,10/26/2021,Romance,English,4.1,97297,2022-10-01,Mountain Trail_English_Romance,58379.84
+Tech Singularity,5/6/2023,Action/Sci-Fi,English,4.8,109602,2024-09-01,Tech Singularity_English_Action/Sci-Fi,65763.12
+Mountain Trail,10/14/2021,Documentary,English,4.4,47828,2023-04-01,Mountain Trail_English_Documentary,28698.559999999998
+Midnight Train,4/5/2021,Documentary,English,4.2,29747,2021-09-01,Midnight Train_English_Documentary,17849.88
+The Quantum Helix,5/17/2020,Action/Sci-Fi,English,3.6,120161,2021-12-01,The Quantum Helix_English_Action/Sci-Fi,72098.04
+The Green Line,12/19/2023,Drama/Thriller,English,3.7,67815,2024-08-01,The Green Line_English_Drama/Thriller,40690.48
+Heartbreak Hotel,1/12/2023,Romance,English,3.9,89311,2023-06-01,Heartbreak Hotel_English_Romance,53588.159999999996
+A Summer Dream,7/2/2023,Romance,English,4.1,154999,2024-12-01,A Summer Dream_English_Romance,93001.04
+The Warrior King,1/6/2022,Drama/Thriller,English,4.7,70916,2023-03-01,The Warrior King_English_Drama/Thriller,42551.479999999996
+Future City,4/2/2020,Documentary,English,4.8,30711,2021-09-01,Future City_English_Documentary,18428.519999999997
+Seoul Heartbeat,10/18/2020,Romance,English,4.5,179123,2022-02-01,Seoul Heartbeat_English_Romance,107475.6
+Eternal Hope,6/13/2023,Documentary,English,4.1,33065,2024-11-01,Eternal Hope_English_Documentary,19840.64
+Chennai Express,2/21/2023,Comedy,English,4.0,102808,2024-02-01,Chennai Express_English_Comedy,61686.399999999994
+The King's Guard,6/27/2020,Drama/Thriller,English,4.0,93416,2021-01-01,The King's Guard_English_Drama/Thriller,56051.2
+Love in the Frost,3/12/2022,Action/Sci-Fi,English,3.6,108315,2023-10-01,Love in the Frost_English_Action/Sci-Fi,64990.44
+Kandy Dreams,5/6/2022,Romance,English,4.3,95531,2023-08-01,Kandy Dreams_English_Romance,57320.32
+Tech Singularity,1/27/2020,Romance,English,3.5,77131,2020-01-01,Tech Singularity_English_Romance,46280.0
+Love in the Frost,12/31/2023,Documentary,English,4.3,31280,2024-03-01,Love in the Frost_English_Documentary,18769.72
+Seoul Heartbeat,10/21/2024,Comedy,English,4.5,86478,2026-03-01,Seoul Heartbeat_English_Comedy,51888.6
+Silent Echoes,6/11/2020,Documentary,English,4.7,28677,2021-09-01,Silent Echoes_English_Documentary,17208.08
+Taipei Secrets,1/18/2021,Comedy,English,4.7,113410,2021-10-01,Taipei Secrets_English_Comedy,68047.88
+Sunset Vows,8/28/2024,Documentary,English,4.2,39140,2026-03-01,Sunset Vows_English_Documentary,23485.68
+Heartbreak Hotel,7/30/2021,Comedy,Spanish,4.2,110938,2022-11-01,Heartbreak Hotel_Spanish_Comedy,66564.48
+Kandy Dreams,6/12/2024,Drama/Thriller,Spanish,4.5,73352,2025-07-01,Kandy Dreams_Spanish_Drama/Thriller,44013.0
+Mountain Trail,10/12/2022,Romance,Spanish,4.7,88176,2024-05-01,Mountain Trail_Spanish_Romance,52907.479999999996
+Tokyo Drift 2,5/31/2024,Drama/Thriller,Spanish,4.6,77553,2026-02-01,Tokyo Drift 2_Spanish_Drama/Thriller,46533.63999999999
+Shadow Pact,5/26/2024,Romance,Spanish,3.7,102830,2025-11-01,Shadow Pact_Spanish_Romance,61699.48
+Lahore Nights,11/5/2020,Comedy,Spanish,4.6,104346,2022-10-01,Lahore Nights_Spanish_Comedy,62609.439999999995
+Kochi Waves,6/20/2022,Comedy,Spanish,4.6,117797,2024-05-01,Kochi Waves_Spanish_Comedy,70680.04
+Distant Star,12/7/2024,Documentary,Spanish,4.3,50956,2025-04-01,Distant Star_Spanish_Documentary,30575.32
+Tokyo Drift 2,8/17/2024,Horror,Spanish,4.7,46523,2025-03-01,Tokyo Drift 2_Spanish_Horror,27915.68
+Mountain Trail,10/21/2024,Comedy,Spanish,3.7,105359,2026-04-01,Mountain Trail_Spanish_Comedy,63216.88
+Mirror Maze,3/9/2021,Action/Sci-Fi,Spanish,3.5,161811,2022-07-01,Mirror Maze_Spanish_Action/Sci-Fi,97087.99999999999
+Lahore Nights,8/16/2022,Documentary,Spanish,3.7,36681,2023-06-01,Lahore Nights_Spanish_Documentary,22010.079999999998
+Distant Star,9/22/2023,Action/Sci-Fi,Spanish,4.4,123897,2025-01-01,Distant Star_Spanish_Action/Sci-Fi,74339.95999999999
+Digital Dawn,11/27/2021,Horror,Spanish,4.8,48585,2023-05-01,Digital Dawn_Spanish_Horror,29152.92
+Urban Chaos,1/4/2021,Comedy,Spanish,4.8,128703,2021-12-01,Urban Chaos_Spanish_Comedy,77223.72
+Mirror Maze,8/10/2022,Documentary,French,3.8,26064,2024-07-01,Mirror Maze_French_Documentary,15639.92
+Eternal Hope,10/18/2024,Romance,French,4.4,84145,2025-11-01,Eternal Hope_French_Romance,50488.76
+The Last Samurai,10/11/2021,Action/Sci-Fi,French,4.6,122381,2022-01-01,The Last Samurai_French_Action/Sci-Fi,73430.43999999999
+Future City,1/4/2022,Comedy,French,4.0,111338,2023-07-01,Future City_French_Comedy,66804.40000000001
+Heartbreak Hotel,6/2/2023,Comedy,French,4.3,101250,2025-03-01,Heartbreak Hotel_French_Comedy,60751.72
+Mumbai Saga,8/29/2020,Comedy,French,4.4,89703,2020-09-01,Mumbai Saga_French_Comedy,53823.56
+Crimson Tide,12/2/2022,Drama/Thriller,French,4.7,70922,2023-03-01,Crimson Tide_French_Drama/Thriller,42555.079999999994
+The Warrior King,4/4/2023,Drama/Thriller,French,3.6,85493,2023-05-01,The Warrior King_French_Drama/Thriller,51297.24
+Taipei Secrets,9/10/2021,Action/Sci-Fi,French,4.3,116182,2022-04-01,Taipei Secrets_French_Action/Sci-Fi,69710.92
+The Last Samurai,1/30/2023,Comedy,French,3.8,94033,2024-11-01,The Last Samurai_French_Comedy,56421.31999999999
+Mountain Trail,9/19/2024,Horror,French,4.5,83759,2025-11-01,Mountain Trail_French_Horror,50257.200000000004
+Mumbai Saga,10/11/2021,Documentary,French,4.0,46293,2023-01-01,Mumbai Saga_French_Documentary,27777.399999999998
+Tokyo Drift 2,11/25/2023,Drama/Thriller,French,4.2,74809,2024-05-01,Tokyo Drift 2_French_Drama/Thriller,44887.08
+The Warrior King,8/16/2023,Romance,French,4.2,88773,2023-08-01,The Warrior King_French_Romance,53265.479999999996
+The King's Guard,10/16/2020,Romance,French,4.8,167262,2021-12-01,The King's Guard_French_Romance,100359.12
+Eternal Hope,10/5/2024,Comedy,Japanese,4.3,96981,2025-08-01,Eternal Hope_Japanese_Comedy,58190.32
+Tech Singularity,2/21/2021,Romance,Japanese,4.0,80340,2022-08-01,Tech Singularity_Japanese_Romance,48205.6
+Sunset Vows,12/8/2020,Horror,Japanese,4.6,57577,2022-09-01,Sunset Vows_Japanese_Horror,34548.03999999999
+Shadow Pact,4/15/2021,Horror,Japanese,3.7,62181,2022-01-01,Shadow Pact_Japanese_Horror,37310.08
+Kandy Dreams,10/7/2024,Romance,Japanese,4.6,158127,2024-12-01,Kandy Dreams_Japanese_Romance,94878.04
+Distant Star,9/1/2022,Action/Sci-Fi,Japanese,3.9,127353,2023-04-01,Distant Star_Japanese_Action/Sci-Fi,76413.36
+Future City,9/28/2022,Romance,Japanese,4.1,141947,2022-12-01,Future City_Japanese_Romance,85169.84
+A Summer Dream,9/23/2021,Comedy,Japanese,4.4,107401,2022-10-01,A Summer Dream_Japanese_Comedy,64442.36
+Seoul Heartbeat,10/2/2020,Action/Sci-Fi,Japanese,4.1,134320,2021-11-01,Seoul Heartbeat_Japanese_Action/Sci-Fi,80593.64
+Mountain Trail,9/13/2021,Action/Sci-Fi,Japanese,3.9,124216,2022-11-01,Mountain Trail_Japanese_Action/Sci-Fi,74531.15999999999
+Desert Trek,4/20/2024,Horror,Korean,3.7,143087,2025-10-01,Desert Trek_Korean_Horror,85853.68
+Seoul Heartbeat,1/9/2020,Horror,Korean,4.4,68626,2020-02-01,Seoul Heartbeat_Korean_Horror,41177.36
+Mirror Maze,4/15/2022,Drama/Thriller,Korean,3.9,118961,2023-09-01,Mirror Maze_Korean_Drama/Thriller,71378.15999999999
+Distant Star,8/8/2022,Comedy,Korean,4.7,126915,2024-06-01,Distant Star_Korean_Comedy,76150.88
+Crimson Tide,6/27/2024,Drama/Thriller,Korean,4.0,99524,2024-12-01,Crimson Tide_Korean_Drama/Thriller,59715.99999999999
+Shadow Pact,7/9/2022,Romance,Korean,4.6,106939,2024-03-01,Shadow Pact_Korean_Romance,64165.23999999999
+Mumbai Saga,11/25/2024,Comedy,Korean,3.6,118272,2026-01-01,Mumbai Saga_Korean_Comedy,70964.64
+Silent Echoes,3/7/2022,Drama/Thriller,Korean,3.5,81857,2024-01-01,Silent Echoes_Korean_Drama/Thriller,49115.6
+Mountain Trail,7/21/2024,Documentary,Korean,4.4,56819,2025-02-01,Mountain Trail_Korean_Documentary,34093.16
+Taipei Secrets,2/2/2023,Comedy,Korean,4.5,121233,2024-08-01,Taipei Secrets_Korean_Comedy,72741.6
+Desert Trek,3/6/2021,Documentary,Hindi,3.6,49954,2021-04-01,Desert Trek_Hindi_Documentary,29973.839999999997
+The Last Samurai,12/24/2020,Comedy,Hindi,4.1,158679,2020-12-01,The Last Samurai_Hindi_Comedy,95209.04
+Distant Star,6/10/2020,Drama/Thriller,Hindi,3.6,97249,2020-10-01,Distant Star_Hindi_Drama/Thriller,58350.840000000004
+Cosmic Drift,4/7/2024,Action/Sci-Fi,Hindi,3.8,149242,2025-05-01,Cosmic Drift_Hindi_Action/Sci-Fi,89546.72
+Midnight Train,3/7/2020,Romance,Hindi,4.6,107101,2021-09-01,Midnight Train_Hindi_Romance,64262.439999999995
+Lahore Nights,5/27/2020,Romance,Hindi,4.2,96371,2020-06-01,Lahore Nights_Hindi_Romance,57824.28
+Sunset Vows,11/4/2022,Drama/Thriller,Hindi,3.6,92960,2022-11-01,Sunset Vows_Hindi_Drama/Thriller,55777.44
+Tech Singularity,7/1/2024,Action/Sci-Fi,Hindi,4.0,154070,2025-03-01,Tech Singularity_Hindi_Action/Sci-Fi,92443.6
+Tokyo Drift 2,2/24/2020,Horror,Hindi,4.1,64975,2021-09-01,Tokyo Drift 2_Hindi_Horror,38986.64
+The Green Line,11/11/2022,Action/Sci-Fi,Hindi,4.1,135367,2023-08-01,The Green Line_Hindi_Action/Sci-Fi,81221.84
+Sunset Vows,5/15/2020,Romance,Hindi,3.7,96267,2021-11-01,Sunset Vows_Hindi_Romance,57761.68
+Future City,8/5/2021,Action/Sci-Fi,Hindi,4.3,152146,2022-12-01,Future City_Hindi_Action/Sci-Fi,91289.31999999999
+The Quantum Helix,11/14/2022,Comedy,Hindi,4.7,110521,2023-10-01,The Quantum Helix_Hindi_Comedy,66314.48
+Future City,9/10/2024,Horror,Hindi,4.1,61342,2026-03-01,Future City_Hindi_Horror,36806.84
+A Summer Dream,9/21/2024,Documentary,Hindi,3.7,64988,2025-03-01,A Summer Dream_Hindi_Documentary,38994.28
+Tokyo Drift 2,2/15/2021,Drama/Thriller,Hindi,4.9,91672,2021-06-01,Tokyo Drift 2_Hindi_Drama/Thriller,55005.159999999996
+Silent Echoes,12/16/2024,Documentary,Hindi,3.6,49486,2026-02-01,Silent Echoes_Hindi_Documentary,29693.039999999997
+Digital Dawn,11/18/2020,Comedy,Hindi,4.4,132723,2021-11-01,Digital Dawn_Hindi_Comedy,79635.56
+The King's Guard,4/21/2020,Documentary,Hindi,4.0,45048,2020-12-01,The King's Guard_Hindi_Documentary,27030.399999999998
+Love in the Frost,3/25/2024,Romance,Hindi,4.3,122334,2025-10-01,Love in the Frost_Hindi_Romance,73402.12
+The Last Samurai,1/8/2024,Romance,Hindi,3.7,112471,2025-10-01,The Last Samurai_Hindi_Romance,67484.07999999999
+The Quantum Helix,10/7/2022,Drama/Thriller,Hindi,3.6,91395,2024-04-01,The Quantum Helix_Hindi_Drama/Thriller,54838.44
+Tech Singularity,12/2/2021,Romance,Hindi,4.0,110757,2023-09-01,Tech Singularity_Hindi_Romance,66455.8
+Lahore Nights,7/10/2024,Romance,Hindi,4.1,229647,2025-02-01,Lahore Nights_Hindi_Romance,137789.84
+Mirror Maze,2/1/2021,Romance,Hindi,4.3,122079,2021-08-01,Mirror Maze_Hindi_Romance,73249.12
+Dragon's Fury,6/18/2021,Horror,Hindi,4.5,82571,2022-11-01,Dragon's Fury_Hindi_Horror,49544.4
+Silent Echoes,8/30/2022,Comedy,Hindi,4.0,117864,2023-08-01,Silent Echoes_Hindi_Comedy,70720.0
+Eternal Hope,2/11/2020,Comedy,Hindi,3.9,114630,2022-01-01,Eternal Hope_Hindi_Comedy,68779.56
+The King's Guard,1/9/2023,Action/Sci-Fi,Hindi,4.1,147911,2024-08-01,The King's Guard_Hindi_Action/Sci-Fi,88748.23999999999
+Sunset Vows,9/24/2023,Comedy,Hindi,3.9,129378,2024-09-01,Sunset Vows_Hindi_Comedy,77628.36
+Cosmic Drift,3/19/2023,Documentary,Hindi,4.3,58567,2024-11-01,Cosmic Drift_Hindi_Documentary,35141.92
+Mumbai Saga,12/19/2021,Drama/Thriller,Hindi,3.6,82713,2023-07-01,Mumbai Saga_Hindi_Drama/Thriller,49629.24
+Tech Singularity,1/12/2021,Action/Sci-Fi,Hindi,3.9,163490,2022-12-01,Tech Singularity_Hindi_Action/Sci-Fi,98095.56
+Tokyo Drift 2,1/28/2021,Action/Sci-Fi,Hindi,4.3,155842,2021-02-01,Tokyo Drift 2_Hindi_Action/Sci-Fi,93506.92
+Cosmic Drift,6/28/2020,Comedy,Hindi,4.1,110445,2021-08-01,Cosmic Drift_Hindi_Comedy,66268.64
+Mirror Maze,8/13/2021,Comedy,Hindi,3.8,132225,2023-08-01,Mirror Maze_Hindi_Comedy,79336.52
+Mountain Trail,2/19/2024,Action/Sci-Fi,Hindi,4.1,150321,2024-06-01,Mountain Trail_Hindi_Action/Sci-Fi,90194.23999999999
+Love in the Frost,2/1/2022,Drama/Thriller,Hindi,4.0,100393,2022-11-01,Love in the Frost_Hindi_Drama/Thriller,60237.399999999994
+Desert Trek,3/31/2024,Action/Sci-Fi,Hindi,3.7,180489,2025-07-01,Desert Trek_Hindi_Action/Sci-Fi,108294.87999999999
+Distant Star,6/20/2024,Comedy,Hindi,3.9,115187,2025-07-01,Distant Star_Hindi_Comedy,69113.76
+Seoul Heartbeat,7/13/2023,Action/Sci-Fi,Hindi,3.6,132810,2024-04-01,Seoul Heartbeat_Hindi_Action/Sci-Fi,79687.44
+Sunset Vows,12/27/2022,Action/Sci-Fi,Hindi,4.1,149998,2023-09-01,Sunset Vows_Hindi_Action/Sci-Fi,90000.44
+Future City,2/1/2021,Comedy,Hindi,4.1,107584,2021-02-01,Future City_Hindi_Comedy,64552.03999999999
+The Quantum Helix,4/12/2022,Drama/Thriller,Hindi,4.7,109334,2022-12-01,The Quantum Helix_Hindi_Drama/Thriller,65602.28
+Digital Dawn,9/27/2020,Action/Sci-Fi,Hindi,3.7,132915,2020-10-01,Digital Dawn_Hindi_Action/Sci-Fi,79750.48
+Silent Echoes,3/27/2023,Documentary,Hindi,4.9,48866,2023-06-01,Silent Echoes_Hindi_Documentary,29321.559999999998
+Tech Singularity,2/4/2021,Comedy,Hindi,3.7,134688,2022-09-01,Tech Singularity_Hindi_Comedy,80814.28
+Digital Dawn,3/3/2020,Drama/Thriller,Hindi,3.5,100228,2022-01-01,Digital Dawn_Hindi_Drama/Thriller,60138.2
+Cosmic Drift,11/4/2021,Comedy,Hindi,3.7,110136,2023-07-01,Cosmic Drift_Hindi_Comedy,66083.07999999999
+Dragon's Fury,12/6/2020,Action/Sci-Fi,Hindi,4.7,147181,2022-08-01,Dragon's Fury_Hindi_Action/Sci-Fi,88310.48
+The Quantum Helix,1/26/2023,Drama/Thriller,Hindi,4.8,94098,2023-10-01,The Quantum Helix_Hindi_Drama/Thriller,56460.719999999994
+Dragon's Fury,7/13/2020,Comedy,Hindi,4.2,152164,2021-12-01,Dragon's Fury_Hindi_Comedy,91300.07999999999
+Taipei Secrets,9/14/2022,Comedy,Hindi,4.7,109528,2023-10-01,Taipei Secrets_Hindi_Comedy,65718.68000000001
+Chennai Express,11/30/2022,Horror,Hindi,3.9,83743,2023-08-01,Chennai Express_Hindi_Horror,50247.35999999999
+Distant Star,8/8/2024,Romance,Hindi,4.3,115188,2026-03-01,Distant Star_Hindi_Romance,69114.52
+Silent Echoes,6/18/2021,Comedy,Hindi,4.4,152377,2022-12-01,Silent Echoes_Hindi_Comedy,91427.95999999999
+Crimson Tide,11/28/2022,Action/Sci-Fi,Hindi,3.8,146570,2023-05-01,Crimson Tide_Hindi_Action/Sci-Fi,87943.52
+Desert Trek,12/13/2021,Drama/Thriller,Hindi,4.1,83857,2023-11-01,Desert Trek_Hindi_Drama/Thriller,50315.84
+The Green Line,11/11/2022,Documentary,Hindi,4.3,55935,2023-01-01,The Green Line_Hindi_Documentary,33562.72
+Eternal Hope,7/28/2020,Action/Sci-Fi,Hindi,4.0,151343,2022-02-01,Eternal Hope_Hindi_Action/Sci-Fi,90807.40000000001
+Crimson Tide,1/1/2021,Romance,Hindi,4.3,203753,2021-02-01,Crimson Tide_Hindi_Romance,122253.51999999999
+The Warrior King,9/20/2020,Action/Sci-Fi,Hindi,4.8,156194,2022-02-01,The Warrior King_Hindi_Action/Sci-Fi,93718.31999999999
+The Quantum Helix,2/3/2020,Horror,Hindi,3.8,64941,2021-04-01,The Quantum Helix_Hindi_Horror,38966.119999999995
+Urban Chaos,10/7/2020,Romance,Hindi,3.5,118935,2021-09-01,Urban Chaos_Hindi_Romance,71362.4
+Dragon's Fury,4/5/2022,Documentary,Hindi,4.1,60548,2023-11-01,Dragon's Fury_Hindi_Documentary,36330.439999999995
+Silent Echoes,10/30/2020,Comedy,Hindi,4.9,105035,2022-03-01,Silent Echoes_Hindi_Comedy,63022.96
+Shadow Pact,9/27/2024,Documentary,Hindi,4.2,39688,2025-02-01,Shadow Pact_Hindi_Documentary,23814.48
+Lahore Nights,10/29/2023,Horror,Hindi,4.9,62686,2025-05-01,Lahore Nights_Hindi_Horror,37613.56
+Lahore Nights,7/9/2022,Drama/Thriller,Hindi,4.7,110620,2023-12-01,Lahore Nights_Hindi_Drama/Thriller,66373.88
+Mountain Trail,6/13/2020,Romance,Hindi,3.6,94959,2020-09-01,Mountain Trail_Hindi_Romance,56976.840000000004
+Digital Dawn,6/4/2024,Comedy,Tamil,4.8,114295,2025-09-01,Digital Dawn_Tamil_Comedy,68578.92
+Crimson Tide,9/24/2020,Horror,Tamil,3.8,107626,2020-10-01,Crimson Tide_Tamil_Horror,64577.119999999995
+Dragon's Fury,7/3/2021,Romance,Tamil,4.0,93578,2023-06-01,Dragon's Fury_Tamil_Romance,56148.399999999994
+Digital Dawn,3/19/2022,Action/Sci-Fi,Tamil,4.8,135949,2023-12-01,Digital Dawn_Tamil_Action/Sci-Fi,81571.31999999999
+Tech Singularity,12/28/2020,Documentary,Tamil,3.6,40515,2022-04-01,Tech Singularity_Tamil_Documentary,24310.44
+Mountain Trail,7/12/2022,Horror,Tamil,4.4,72264,2024-07-01,Mountain Trail_Tamil_Horror,43360.16
+Mumbai Saga,2/26/2023,Horror,Tamil,4.6,53518,2023-05-01,Mumbai Saga_Tamil_Horror,32112.64
+Midnight Train,10/18/2021,Drama/Thriller,Tamil,4.6,76415,2023-01-01,Midnight Train_Tamil_Drama/Thriller,45850.84
+Distant Star,10/26/2021,Comedy,Tamil,3.9,101256,2023-01-01,Distant Star_Tamil_Comedy,60755.159999999996
+Dragon's Fury,2/26/2022,Romance,Tamil,4.4,76429,2022-11-01,Dragon's Fury_Tamil_Romance,45859.16
+Mumbai Saga,5/25/2022,Documentary,Tamil,4.1,25397,2022-11-01,Mumbai Saga_Tamil_Documentary,15239.839999999998
+Crimson Tide,4/5/2021,Horror,Tamil,3.9,77443,2022-11-01,Crimson Tide_Tamil_Horror,46467.35999999999
+Heartbreak Hotel,10/30/2021,Drama/Thriller,Tamil,4.5,77364,2022-07-01,Heartbreak Hotel_Tamil_Drama/Thriller,46420.200000000004
+The Quantum Helix,12/28/2020,Horror,Tamil,3.6,62552,2021-02-01,The Quantum Helix_Tamil_Horror,37532.64
+Chennai Express,6/5/2021,Drama/Thriller,Tamil,3.9,94055,2022-02-01,Chennai Express_Tamil_Drama/Thriller,56434.56
+Midnight Train,6/14/2020,Comedy,Tamil,4.9,103616,2020-07-01,Midnight Train_Tamil_Comedy,62171.56
+The King's Guard,8/15/2021,Action/Sci-Fi,Tamil,4.0,116905,2023-02-01,The King's Guard_Tamil_Action/Sci-Fi,70144.6
+Taipei Secrets,2/12/2020,Action/Sci-Fi,Tamil,4.7,115975,2021-01-01,Taipei Secrets_Tamil_Action/Sci-Fi,69586.88
+The Warrior King,3/1/2022,Documentary,Tamil,4.7,52554,2022-07-01,The Warrior King_Tamil_Documentary,31534.28
+Lahore Nights,10/31/2023,Documentary,Tamil,4.4,51074,2023-11-01,Lahore Nights_Tamil_Documentary,30646.159999999996
+Seoul Heartbeat,8/14/2020,Comedy,Tamil,3.8,118225,2020-12-01,Seoul Heartbeat_Tamil_Comedy,70936.52
+Lahore Nights,10/3/2023,Action/Sci-Fi,Tamil,4.2,153205,2025-07-01,Lahore Nights_Tamil_Action/Sci-Fi,91924.68
+Digital Dawn,2/4/2020,Documentary,Tamil,4.1,32590,2020-04-01,Digital Dawn_Tamil_Documentary,19555.64
+Distant Star,8/22/2024,Drama/Thriller,Tamil,3.8,84673,2025-06-01,Distant Star_Tamil_Drama/Thriller,50805.31999999999
+Chennai Express,9/26/2020,Drama/Thriller,Tamil,4.4,75599,2021-12-01,Chennai Express_Tamil_Drama/Thriller,45361.16
+Cosmic Drift,7/20/2021,Documentary,Tamil,4.7,52081,2021-08-01,Cosmic Drift_Tamil_Documentary,31250.48
+The King's Guard,1/30/2023,Romance,Tamil,4.0,75456,2024-03-01,The King's Guard_Tamil_Romance,45275.2
+Taipei Secrets,11/17/2023,Action/Sci-Fi,Tamil,4.6,114101,2025-05-01,Taipei Secrets_Tamil_Action/Sci-Fi,68462.43999999999
+Silent Echoes,1/16/2021,Comedy,Tamil,3.8,121899,2021-12-01,Silent Echoes_Tamil_Comedy,73140.92
+Eternal Hope,5/29/2020,Drama/Thriller,Tamil,3.5,67497,2022-04-01,Eternal Hope_Tamil_Drama/Thriller,40499.6
+Distant Star,1/21/2022,Drama/Thriller,Tamil,4.0,70069,2022-06-01,Distant Star_Tamil_Drama/Thriller,42043.0
+Heartbreak Hotel,3/22/2023,Drama/Thriller,Tamil,4.8,84408,2025-01-01,Heartbreak Hotel_Tamil_Drama/Thriller,50646.719999999994
+Mirror Maze,4/19/2020,Horror,Tamil,3.9,48761,2021-12-01,Mirror Maze_Tamil_Horror,29258.16
+Heartbreak Hotel,8/4/2023,Horror,Tamil,4.7,48562,2024-12-01,Heartbreak Hotel_Tamil_Horror,29139.08
+Kochi Waves,2/18/2023,Action/Sci-Fi,Tamil,4.5,129592,2023-11-01,Kochi Waves_Tamil_Action/Sci-Fi,77757.0
+Mumbai Saga,12/18/2023,Action/Sci-Fi,Tamil,3.9,126096,2024-06-01,Mumbai Saga_Tamil_Action/Sci-Fi,75659.15999999999
+Future City,6/24/2023,Romance,Tamil,4.3,76629,2024-03-01,Future City_Tamil_Romance,45979.12
+Silent Echoes,10/30/2022,Action/Sci-Fi,Tamil,4.3,112108,2023-06-01,Silent Echoes_Tamil_Action/Sci-Fi,67266.52
+Shadow Pact,3/1/2021,Comedy,Tamil,3.8,104073,2022-04-01,Shadow Pact_Tamil_Comedy,62445.31999999999
+Dragon's Fury,1/8/2020,Documentary,Tamil,3.6,48518,2020-11-01,Dragon's Fury_Tamil_Documentary,29112.239999999998
+The Warrior King,5/7/2020,Drama/Thriller,Tamil,3.6,97917,2021-10-01,The Warrior King_Tamil_Drama/Thriller,58751.64
+Heartbreak Hotel,2/1/2021,Action/Sci-Fi,Tamil,4.2,120418,2022-01-01,Heartbreak Hotel_Tamil_Action/Sci-Fi,72252.48
+The King's Guard,10/20/2020,Documentary,Tamil,4.6,31365,2020-11-01,The King's Guard_Tamil_Documentary,18820.84
+The Green Line,9/28/2024,Comedy,Tamil,4.2,85367,2025-06-01,The Green Line_Tamil_Comedy,51221.88
+Chennai Express,2/8/2022,Action/Sci-Fi,Tamil,4.7,107712,2022-03-01,Chennai Express_Tamil_Action/Sci-Fi,64629.079999999994
+Desert Trek,7/29/2021,Drama/Thriller,Tamil,4.6,86529,2022-10-01,Desert Trek_Tamil_Drama/Thriller,51919.24
+Sunset Vows,6/18/2022,Drama/Thriller,Tamil,4.3,81112,2024-02-01,Sunset Vows_Tamil_Drama/Thriller,48668.92
+The Last Samurai,8/21/2023,Drama/Thriller,Tamil,3.5,72890,2024-07-01,The Last Samurai_Tamil_Drama/Thriller,43735.4
+The Warrior King,5/8/2022,Horror,Tamil,4.1,47265,2023-01-01,The Warrior King_Tamil_Horror,28360.64
+Kandy Dreams,4/7/2020,Horror,Tamil,4.4,72232,2021-09-01,Kandy Dreams_Tamil_Horror,43340.96
+Tokyo Drift 2,11/4/2022,Drama/Thriller,Tamil,3.9,71128,2024-01-01,Tokyo Drift 2_Tamil_Drama/Thriller,42678.35999999999
+Silent Echoes,8/19/2021,Action/Sci-Fi,Tamil,4.9,113966,2022-09-01,Silent Echoes_Tamil_Action/Sci-Fi,68381.56
+Chennai Express,1/25/2022,Romance,Tamil,4.7,96705,2023-09-01,Chennai Express_Tamil_Romance,58024.88
+Cosmic Drift,2/16/2024,Horror,Tamil,4.7,59030,2024-02-01,Cosmic Drift_Tamil_Horror,35419.88
+Heartbreak Hotel,10/6/2023,Romance,Tamil,4.1,100764,2025-03-01,Heartbreak Hotel_Tamil_Romance,60460.03999999999
+Eternal Hope,1/1/2020,Documentary,Tamil,4.0,34420,2020-06-01,Eternal Hope_Tamil_Documentary,20653.6
+Tech Singularity,1/7/2022,Romance,Tamil,3.8,170693,2023-02-01,Tech Singularity_Tamil_Romance,102417.32
+Eternal Hope,2/24/2024,Horror,Tamil,4.1,46876,2025-03-01,Eternal Hope_Tamil_Horror,28127.239999999998
+Sunset Vows,9/11/2020,Action/Sci-Fi,Tamil,4.5,118685,2022-08-01,Sunset Vows_Tamil_Action/Sci-Fi,71212.8
+Lahore Nights,9/3/2022,Romance,Tamil,3.9,104804,2024-05-01,Lahore Nights_Tamil_Romance,62883.95999999999
+Mountain Trail,12/5/2022,Comedy,Malayalam,3.6,92224,2024-10-01,Mountain Trail_Malayalam_Comedy,55335.840000000004
+Tokyo Drift 2,9/23/2022,Comedy,Malayalam,4.7,105161,2023-12-01,Tokyo Drift 2_Malayalam_Comedy,63098.479999999996
+Midnight Train,6/10/2020,Documentary,Malayalam,4.2,31729,2021-05-01,Midnight Train_Malayalam_Documentary,19039.079999999998
+Future City,2/29/2020,Horror,Malayalam,3.8,49850,2020-07-01,Future City_Malayalam_Horror,29911.52
+Lahore Nights,3/10/2023,Drama/Thriller,Malayalam,3.6,80586,2024-03-01,Lahore Nights_Malayalam_Drama/Thriller,48353.04
+The Warrior King,3/29/2021,Comedy,Malayalam,4.7,97218,2022-03-01,The Warrior King_Malayalam_Comedy,58332.67999999999
+Kochi Waves,8/10/2024,Action/Sci-Fi,Malayalam,4.2,123616,2025-01-01,Kochi Waves_Malayalam_Action/Sci-Fi,74171.27999999998
+Tokyo Drift 2,8/14/2023,Romance,Malayalam,4.0,102288,2024-10-01,Tokyo Drift 2_Malayalam_Romance,61374.399999999994
+Heartbreak Hotel,7/15/2023,Horror,Malayalam,3.6,85324,2023-11-01,Heartbreak Hotel_Malayalam_Horror,51195.840000000004
+Cosmic Drift,12/12/2022,Horror,Malayalam,4.4,124296,2023-10-01,Cosmic Drift_Malayalam_Horror,74579.35999999999
+Kandy Dreams,5/22/2022,Action/Sci-Fi,Malayalam,3.8,123900,2023-06-01,Kandy Dreams_Malayalam_Action/Sci-Fi,74341.52
+Tokyo Drift 2,5/5/2020,Horror,Malayalam,3.7,60113,2021-09-01,Tokyo Drift 2_Malayalam_Horror,36069.28
+The Warrior King,1/19/2021,Romance,Malayalam,4.1,104212,2022-11-01,The Warrior King_Malayalam_Romance,62528.84
+Heartbreak Hotel,10/13/2023,Drama/Thriller,Malayalam,4.2,91053,2024-06-01,Heartbreak Hotel_Malayalam_Drama/Thriller,54633.479999999996
+Desert Trek,12/26/2022,Horror,Malayalam,4.5,45597,2024-08-01,Desert Trek_Malayalam_Horror,27360.0
+The Quantum Helix,10/13/2024,Action/Sci-Fi,Malayalam,4.1,133089,2026-05-01,The Quantum Helix_Malayalam_Action/Sci-Fi,79855.04
+Lahore Nights,10/13/2024,Comedy,Malayalam,4.5,98671,2026-06-01,Lahore Nights_Malayalam_Comedy,59204.4
+Seoul Heartbeat,11/9/2020,Comedy,Malayalam,3.6,100640,2022-04-01,Seoul Heartbeat_Malayalam_Comedy,60385.44
+Seoul Heartbeat,2/8/2024,Comedy,Malayalam,4.2,87919,2024-07-01,Seoul Heartbeat_Malayalam_Comedy,52753.08
+Desert Trek,3/11/2022,Romance,Malayalam,3.8,80113,2022-08-01,Desert Trek_Malayalam_Romance,48069.31999999999
+Love in the Frost,2/15/2020,Drama/Thriller,Malayalam,4.2,76725,2021-05-01,Love in the Frost_Malayalam_Drama/Thriller,46036.68
+Taipei Secrets,5/19/2020,Comedy,Malayalam,4.2,85543,2021-02-01,Taipei Secrets_Malayalam_Comedy,51327.479999999996
+Mumbai Saga,7/29/2020,Documentary,Malayalam,4.9,31591,2022-06-01,Mumbai Saga_Malayalam_Documentary,18956.559999999998
+Eternal Hope,2/26/2021,Action/Sci-Fi,Malayalam,4.1,110497,2021-04-01,Eternal Hope_Malayalam_Action/Sci-Fi,66299.84
+The Warrior King,10/21/2021,Comedy,Malayalam,3.7,123240,2022-05-01,The Warrior King_Malayalam_Comedy,73945.48
+Midnight Train,4/20/2024,Drama/Thriller,Malayalam,4.2,81365,2025-10-01,Midnight Train_Malayalam_Drama/Thriller,48820.68
+Sunset Vows,6/2/2024,Comedy,Malayalam,4.8,103884,2025-02-01,Sunset Vows_Malayalam_Comedy,62332.31999999999
+Dragon's Fury,3/31/2020,Comedy,Malayalam,4.2,89514,2020-08-01,Dragon's Fury_Malayalam_Comedy,53710.08
+Lahore Nights,12/10/2023,Comedy,Malayalam,4.6,96857,2025-09-01,Lahore Nights_Malayalam_Comedy,58116.03999999999
+Kandy Dreams,5/7/2022,Drama/Thriller,Malayalam,3.7,91672,2023-07-01,Kandy Dreams_Malayalam_Drama/Thriller,55004.68
+Sunset Vows,11/7/2022,Romance,Malayalam,4.9,94468,2023-10-01,Sunset Vows_Malayalam_Romance,56682.759999999995
+A Summer Dream,9/13/2020,Drama/Thriller,Malayalam,4.4,65811,2021-01-01,A Summer Dream_Malayalam_Drama/Thriller,39488.36
+Kandy Dreams,1/8/2022,Romance,Malayalam,4.6,81413,2022-10-01,Kandy Dreams_Malayalam_Romance,48849.63999999999
+Kandy Dreams,11/1/2021,Romance,Malayalam,4.9,103753,2022-11-01,Kandy Dreams_Malayalam_Romance,62253.759999999995
+The Quantum Helix,7/9/2023,Horror,Malayalam,4.6,71471,2024-09-01,The Quantum Helix_Malayalam_Horror,42884.439999999995
+Lahore Nights,11/15/2021,Horror,Malayalam,4.6,47440,2022-08-01,Lahore Nights_Malayalam_Horror,28465.84
+Cosmic Drift,5/9/2023,Documentary,Malayalam,3.8,43504,2024-12-01,Cosmic Drift_Malayalam_Documentary,26103.92
+Urban Chaos,4/18/2021,Action/Sci-Fi,Malayalam,3.7,127670,2022-11-01,Urban Chaos_Malayalam_Action/Sci-Fi,76603.48
+The Warrior King,5/19/2024,Action/Sci-Fi,Malayalam,4.7,116863,2025-08-01,The Warrior King_Malayalam_Action/Sci-Fi,70119.68000000001
+Chennai Express,2/27/2021,Action/Sci-Fi,Malayalam,4.4,114505,2022-05-01,Chennai Express_Malayalam_Action/Sci-Fi,68704.76
+Heartbreak Hotel,4/17/2024,Action/Sci-Fi,Malayalam,4.4,114027,2025-03-01,Heartbreak Hotel_Malayalam_Action/Sci-Fi,68417.95999999999
+Seoul Heartbeat,8/16/2023,Action/Sci-Fi,Malayalam,3.5,111023,2024-03-01,Seoul Heartbeat_Malayalam_Action/Sci-Fi,66615.2
+Future City,4/5/2020,Comedy,Malayalam,4.8,98549,2021-04-01,Future City_Malayalam_Comedy,59131.31999999999
+Crimson Tide,6/22/2024,Horror,Malayalam,4.7,106095,2025-10-01,Crimson Tide_Malayalam_Horror,63658.88
+Midnight Train,6/8/2024,Documentary,Malayalam,4.7,46148,2024-11-01,Midnight Train_Malayalam_Documentary,27690.68
+Cosmic Drift,3/24/2021,Drama/Thriller,Malayalam,3.7,75373,2022-06-01,Cosmic Drift_Malayalam_Drama/Thriller,45225.28
+Kandy Dreams,9/29/2020,Horror,Malayalam,4.5,61043,2021-07-01,Kandy Dreams_Malayalam_Horror,36627.6
+Desert Trek,3/31/2023,Drama/Thriller,Malayalam,4.0,75515,2024-04-01,Desert Trek_Malayalam_Drama/Thriller,45310.6
+Kochi Waves,2/23/2020,Romance,Malayalam,4.8,88262,2020-10-01,Kochi Waves_Malayalam_Romance,52959.119999999995
+Dragon's Fury,11/20/2024,Documentary,Malayalam,4.1,36283,2025-11-01,Dragon's Fury_Malayalam_Documentary,21771.44
+Sunset Vows,5/30/2023,Romance,Sinhala,3.6,99702,2024-11-01,Sunset Vows_Sinhala_Romance,59822.64
+Kandy Dreams,9/21/2021,Horror,Sinhala,4.8,46952,2022-04-01,Kandy Dreams_Sinhala_Horror,28173.12
+Taipei Secrets,8/22/2024,Romance,Sinhala,4.9,83777,2025-03-01,Taipei Secrets_Sinhala_Romance,50268.159999999996
+Distant Star,7/26/2022,Horror,Sinhala,4.0,54308,2022-12-01,Distant Star_Sinhala_Horror,32586.399999999998
+Taipei Secrets,12/25/2023,Documentary,Sinhala,3.7,50721,2025-09-01,Taipei Secrets_Sinhala_Documentary,30434.079999999998
+Mirror Maze,2/19/2024,Romance,Sinhala,4.7,173789,2024-02-01,Mirror Maze_Sinhala_Romance,104275.28
+The Warrior King,11/7/2024,Comedy,Sinhala,4.6,112466,2025-03-01,The Warrior King_Sinhala_Comedy,67481.43999999999
+Kandy Dreams,6/9/2023,Documentary,Sinhala,3.6,30456,2025-05-01,Kandy Dreams_Sinhala_Documentary,18275.039999999997
+Mirror Maze,8/8/2023,Romance,Sinhala,3.8,161474,2024-12-01,Mirror Maze_Sinhala_Romance,96885.92
+Chennai Express,2/7/2024,Romance,Sinhala,4.1,85936,2025-06-01,Chennai Express_Sinhala_Romance,51563.24
+Desert Trek,12/31/2021,Comedy,Sinhala,3.5,93159,2022-01-01,Desert Trek_Sinhala_Comedy,55896.8
+Kochi Waves,6/18/2020,Documentary,Sinhala,4.5,35653,2021-06-01,Kochi Waves_Sinhala_Documentary,21393.6
+Tech Singularity,6/12/2020,Comedy,Sinhala,4.1,88785,2021-04-01,Tech Singularity_Sinhala_Comedy,53272.64
+A Summer Dream,2/18/2022,Action/Sci-Fi,Sinhala,4.3,117104,2022-04-01,A Summer Dream_Sinhala_Action/Sci-Fi,70264.12
+Kandy Dreams,3/6/2024,Comedy,Sinhala,3.5,108986,2024-04-01,Kandy Dreams_Sinhala_Comedy,65393.0
+Digital Dawn,4/23/2020,Drama/Thriller,Sinhala,3.6,75649,2022-02-01,Digital Dawn_Sinhala_Drama/Thriller,45390.840000000004
+Midnight Train,4/15/2023,Romance,Sinhala,4.1,96954,2024-11-01,Midnight Train_Sinhala_Romance,58174.04
+Tech Singularity,7/23/2023,Action/Sci-Fi,Sinhala,4.1,131509,2024-11-01,Tech Singularity_Sinhala_Action/Sci-Fi,78907.04
+Future City,6/16/2023,Romance,Sinhala,4.4,101324,2023-10-01,Future City_Sinhala_Romance,60796.159999999996
+Shadow Pact,12/3/2021,Drama/Thriller,Sinhala,4.8,85787,2023-01-01,Shadow Pact_Sinhala_Drama/Thriller,51474.119999999995
+The King's Guard,11/15/2020,Action/Sci-Fi,Sinhala,4.2,109472,2021-04-01,The King's Guard_Sinhala_Action/Sci-Fi,65684.87999999999
+Heartbreak Hotel,1/6/2023,Drama/Thriller,Sinhala,4.6,90290,2023-09-01,Heartbreak Hotel_Sinhala_Drama/Thriller,54175.84
+The Quantum Helix,6/13/2022,Action/Sci-Fi,Sinhala,4.5,125335,2023-03-01,The Quantum Helix_Sinhala_Action/Sci-Fi,75202.8
+Sunset Vows,3/13/2023,Comedy,Sinhala,4.1,101635,2024-11-01,Sunset Vows_Sinhala_Comedy,60982.64
+Mumbai Saga,2/19/2021,Drama/Thriller,Sinhala,4.3,89471,2021-05-01,Mumbai Saga_Sinhala_Drama/Thriller,53684.32
+Mountain Trail,5/19/2022,Romance,Sinhala,4.4,90409,2023-11-01,Mountain Trail_Sinhala_Romance,54247.16
+A Summer Dream,12/31/2022,Romance,Sinhala,3.8,90616,2023-08-01,A Summer Dream_Sinhala_Romance,54371.119999999995
+Digital Dawn,6/2/2021,Comedy,Sinhala,3.8,97213,2023-01-01,Digital Dawn_Sinhala_Comedy,58329.31999999999
+Mumbai Saga,6/22/2020,Comedy,Sinhala,4.7,86731,2021-09-01,Mumbai Saga_Sinhala_Comedy,52040.479999999996
+Tokyo Drift 2,9/5/2020,Action/Sci-Fi,Sinhala,4.0,130098,2020-11-01,Tokyo Drift 2_Sinhala_Action/Sci-Fi,78060.40000000001
+Mumbai Saga,11/14/2023,Romance,Sinhala,3.9,82555,2024-08-01,Mumbai Saga_Sinhala_Romance,49534.56
+Love in the Frost,3/18/2020,Documentary,Sinhala,4.0,44202,2021-07-01,Love in the Frost_Sinhala_Documentary,26522.8
+Digital Dawn,11/4/2024,Drama/Thriller,Sinhala,3.7,90313,2025-01-01,Digital Dawn_Sinhala_Drama/Thriller,54189.28
+Taipei Secrets,12/19/2024,Comedy,Sinhala,4.7,110208,2025-12-01,Taipei Secrets_Sinhala_Comedy,66126.68000000001
+The Green Line,2/15/2024,Drama/Thriller,Sinhala,4.7,93809,2024-04-01,The Green Line_Sinhala_Drama/Thriller,56287.28
+Lahore Nights,11/11/2020,Documentary,Sinhala,4.5,44021,2021-03-01,Lahore Nights_Sinhala_Documentary,26414.399999999998
+Mountain Trail,2/17/2021,Drama/Thriller,Sinhala,4.0,89579,2021-06-01,Mountain Trail_Sinhala_Drama/Thriller,53749.0
+The Green Line,5/22/2024,Horror,Sinhala,4.5,62957,2026-04-01,The Green Line_Sinhala_Horror,37776.0
+The Green Line,3/3/2024,Documentary,Sinhala,3.6,47737,2025-03-01,The Green Line_Sinhala_Documentary,28643.64
+Seoul Heartbeat,12/9/2024,Action/Sci-Fi,Sinhala,3.8,108832,2026-10-01,Seoul Heartbeat_Sinhala_Action/Sci-Fi,65300.719999999994
+Urban Chaos,8/14/2022,Drama/Thriller,Sinhala,3.8,76756,2022-12-01,Urban Chaos_Sinhala_Drama/Thriller,46055.119999999995
+Cosmic Drift,5/20/2022,Documentary,Sinhala,4.6,33117,2023-05-01,Cosmic Drift_Sinhala_Documentary,19872.04
+The Warrior King,2/28/2024,Drama/Thriller,Sinhala,4.4,67821,2024-04-01,The Warrior King_Sinhala_Drama/Thriller,40694.36
+Kandy Dreams,8/28/2024,Comedy,Sinhala,4.9,128204,2024-12-01,Kandy Dreams_Sinhala_Comedy,76924.36
+Dragon's Fury,6/22/2023,Comedy,Sinhala,3.9,112732,2023-12-01,Dragon's Fury_Sinhala_Comedy,67640.76
+Love in the Frost,9/25/2021,Romance,Sinhala,4.7,170237,2023-02-01,Love in the Frost_Sinhala_Romance,102144.08
+A Summer Dream,1/30/2021,Action/Sci-Fi,Sinhala,4.2,152733,2021-07-01,A Summer Dream_Sinhala_Action/Sci-Fi,91641.48
+Kochi Waves,1/31/2024,Action/Sci-Fi,Sinhala,4.1,105581,2024-06-01,Kochi Waves_Sinhala_Action/Sci-Fi,63350.24
+Chennai Express,4/13/2021,Drama/Thriller,Sinhala,3.6,86031,2022-10-01,Chennai Express_Sinhala_Drama/Thriller,51620.04
+Future City,7/23/2024,Comedy,Sinhala,4.1,108309,2025-09-01,Future City_Sinhala_Comedy,64987.03999999999
+The King's Guard,9/11/2020,Documentary,Chinese,3.8,39436,2021-04-01,The King's Guard_Chinese_Documentary,23663.12
+Seoul Heartbeat,6/25/2024,Comedy,Chinese,4.6,128062,2025-04-01,Seoul Heartbeat_Chinese_Comedy,76839.04
+Distant Star,5/18/2022,Documentary,Chinese,4.5,39066,2023-09-01,Distant Star_Chinese_Documentary,23441.399999999998
+Seoul Heartbeat,7/12/2020,Romance,Chinese,4.2,95431,2021-06-01,Seoul Heartbeat_Chinese_Romance,57260.28
+Midnight Train,2/8/2024,Romance,Chinese,4.9,105008,2025-07-01,Midnight Train_Chinese_Romance,63006.759999999995
+Silent Echoes,7/9/2024,Horror,Chinese,3.6,78484,2025-08-01,Silent Echoes_Chinese_Horror,47091.840000000004
+Chennai Express,12/28/2020,Action/Sci-Fi,Chinese,4.7,191231,2022-07-01,Chennai Express_Chinese_Action/Sci-Fi,114740.48
+Eternal Hope,3/29/2021,Comedy,Chinese,4.2,110254,2022-07-01,Eternal Hope_Chinese_Comedy,66154.07999999999
+Lahore Nights,2/11/2021,Comedy,Chinese,4.6,117597,2022-06-01,Lahore Nights_Chinese_Comedy,70560.04
+Mirror Maze,5/21/2021,Romance,Chinese,4.6,194188,2022-12-01,Mirror Maze_Chinese_Romance,116514.64
+The Warrior King,9/26/2023,Documentary,Chinese,3.6,53661,2023-10-01,The Warrior King_Chinese_Documentary,32198.039999999997
+Seoul Heartbeat,8/25/2023,Romance,Chinese,4.6,226835,2024-02-01,Seoul Heartbeat_Chinese_Romance,136102.84
+Mountain Trail,6/9/2022,Romance,Chinese,4.6,120284,2023-08-01,Mountain Trail_Chinese_Romance,72172.23999999999
+The King's Guard,2/18/2020,Documentary,Chinese,3.8,66629,2021-08-01,The King's Guard_Chinese_Documentary,39978.92
+Sunset Vows,12/11/2024,Action/Sci-Fi,Chinese,3.7,134112,2026-10-01,Sunset Vows_Chinese_Action/Sci-Fi,80468.68
+Mountain Trail,5/31/2023,Horror,Chinese,4.4,64247,2023-12-01,Mountain Trail_Chinese_Horror,38549.96
+The Quantum Helix,9/1/2023,Action/Sci-Fi,Chinese,4.6,140434,2024-06-01,The Quantum Helix_Chinese_Action/Sci-Fi,84262.23999999999
+The King's Guard,4/21/2022,Horror,Chinese,3.6,68831,2024-04-01,The King's Guard_Chinese_Horror,41300.04
+Love in the Frost,4/3/2022,Documentary,Chinese,4.7,38684,2023-07-01,Love in the Frost_Chinese_Documentary,23212.28
+Kandy Dreams,3/5/2023,Horror,Chinese,4.6,66318,2023-05-01,Kandy Dreams_Chinese_Horror,39792.63999999999
+Mumbai Saga,11/5/2023,Action/Sci-Fi,Chinese,4.6,153497,2024-08-01,Mumbai Saga_Chinese_Action/Sci-Fi,92100.04
+Desert Trek,12/19/2023,Comedy,Chinese,4.3,116820,2025-01-01,Desert Trek_Chinese_Comedy,70093.72
+Love in the Frost,4/25/2020,Comedy,Chinese,4.3,149368,2021-05-01,Love in the Frost_Chinese_Comedy,89622.52
+Chennai Express,5/20/2021,Action/Sci-Fi,Chinese,3.7,162666,2022-12-01,Chennai Express_Chinese_Action/Sci-Fi,97601.07999999999
+Sunset Vows,8/23/2020,Action/Sci-Fi,Chinese,3.7,155657,2021-10-01,Sunset Vows_Chinese_Action/Sci-Fi,93395.68
+Cosmic Drift,3/25/2020,Romance,Chinese,4.0,121284,2021-08-01,Cosmic Drift_Chinese_Romance,72772.0
+Distant Star,10/19/2024,Comedy,Chinese,4.0,123746,2025-09-01,Distant Star_Chinese_Comedy,74249.2
+Mumbai Saga,8/23/2021,Documentary,Chinese,3.9,36110,2023-05-01,Mumbai Saga_Chinese_Documentary,21667.56
+Distant Star,10/1/2021,Action/Sci-Fi,Chinese,3.8,147991,2022-12-01,Distant Star_Chinese_Action/Sci-Fi,88796.12
+Mumbai Saga,10/18/2023,Drama/Thriller,Chinese,3.6,117383,2025-09-01,Mumbai Saga_Chinese_Drama/Thriller,70431.24
+Heartbreak Hotel,1/14/2023,Comedy,Chinese,3.7,113872,2024-11-01,Heartbreak Hotel_Chinese_Comedy,68324.68
+Digital Dawn,2/27/2023,Documentary,Chinese,4.6,49295,2024-01-01,Digital Dawn_Chinese_Documentary,29578.84
+Love in the Frost,10/19/2020,Drama/Thriller,Chinese,4.7,108217,2021-11-01,Love in the Frost_Chinese_Drama/Thriller,64932.079999999994
+Digital Dawn,4/3/2022,Documentary,Chinese,4.1,56757,2023-05-01,Digital Dawn_Chinese_Documentary,34055.84
+Mountain Trail,7/30/2022,Documentary,Chinese,3.9,43257,2023-05-01,Mountain Trail_Chinese_Documentary,25955.760000000002
+Cosmic Drift,9/27/2022,Action/Sci-Fi,Chinese,4.0,147053,2023-05-01,Cosmic Drift_Chinese_Action/Sci-Fi,88233.40000000001
+Love in the Frost,5/20/2022,Romance,Chinese,4.8,114831,2022-08-01,Love in the Frost_Chinese_Romance,68900.51999999999
+Chennai Express,3/26/2021,Comedy,Chinese,4.8,122754,2023-02-01,Chennai Express_Chinese_Comedy,73654.31999999999
+Tokyo Drift 2,7/10/2023,Horror,Chinese,4.2,79250,2024-08-01,Tokyo Drift 2_Chinese_Horror,47551.68
+Crimson Tide,7/29/2024,Drama/Thriller,Chinese,3.8,81407,2025-12-01,Crimson Tide_Chinese_Drama/Thriller,48845.719999999994
+The Green Line,6/15/2020,Documentary,Chinese,4.7,49577,2022-06-01,The Green Line_Chinese_Documentary,29748.079999999998
+Mumbai Saga,12/17/2022,Drama/Thriller,Chinese,4.3,95394,2023-10-01,Mumbai Saga_Chinese_Drama/Thriller,57238.12
+Future City,11/9/2020,Romance,Chinese,4.3,93404,2021-06-01,Future City_Chinese_Romance,56044.12
+Mirror Maze,7/12/2024,Action/Sci-Fi,Chinese,3.7,157280,2024-10-01,Mirror Maze_Chinese_Action/Sci-Fi,94369.48
+Silent Echoes,7/5/2020,Comedy,Chinese,4.7,111046,2022-04-01,Silent Echoes_Chinese_Comedy,66629.48
+Midnight Train,9/5/2023,Horror,Chinese,4.1,67239,2024-12-01,Midnight Train_Chinese_Horror,40345.04
+Midnight Train,4/29/2020,Documentary,Chinese,3.6,47345,2021-12-01,Midnight Train_Chinese_Documentary,28408.44
+The Last Samurai,9/25/2022,Drama/Thriller,Chinese,4.8,89278,2024-04-01,The Last Samurai_Chinese_Drama/Thriller,53568.719999999994
+Lahore Nights,11/20/2020,Action/Sci-Fi,Chinese,4.5,184630,2022-07-01,Lahore Nights_Chinese_Action/Sci-Fi,110779.8
+Lahore Nights,8/10/2022,Drama/Thriller,Chinese,4.7,106382,2022-11-01,Lahore Nights_Chinese_Drama/Thriller,63831.079999999994
+Tech Singularity,3/20/2023,Comedy,Taiwanese,4.8,89792,2024-06-01,Tech Singularity_Taiwanese_Comedy,53877.119999999995
+Eternal Hope,10/3/2022,Romance,Taiwanese,4.3,155582,2023-12-01,Eternal Hope_Taiwanese_Romance,93350.92
+Chennai Express,8/27/2020,Documentary,Taiwanese,3.6,38279,2021-06-01,Chennai Express_Taiwanese_Documentary,22968.839999999997
+Lahore Nights,11/10/2024,Action/Sci-Fi,Taiwanese,3.9,116338,2026-02-01,Lahore Nights_Taiwanese_Action/Sci-Fi,69804.36
+Cosmic Drift,3/29/2020,Drama/Thriller,Taiwanese,4.4,94370,2021-08-01,Cosmic Drift_Taiwanese_Drama/Thriller,56623.76
+Mumbai Saga,9/25/2021,Horror,Taiwanese,4.5,53394,2023-06-01,Mumbai Saga_Taiwanese_Horror,32038.199999999997
+Dragon's Fury,6/21/2020,Documentary,Taiwanese,4.0,43203,2021-09-01,Dragon's Fury_Taiwanese_Documentary,25923.399999999998
+Shadow Pact,1/4/2022,Romance,Taiwanese,4.8,100546,2022-04-01,Shadow Pact_Taiwanese_Romance,60329.52
+Midnight Train,2/10/2023,Romance,Taiwanese,4.0,76610,2023-04-01,Midnight Train_Taiwanese_Romance,45967.6
+The Green Line,9/3/2022,Comedy,Taiwanese,4.2,99212,2024-02-01,The Green Line_Taiwanese_Comedy,59528.88
+Love in the Frost,11/5/2024,Action/Sci-Fi,Taiwanese,4.0,114103,2025-09-01,Love in the Frost_Taiwanese_Action/Sci-Fi,68463.40000000001
+Lahore Nights,1/21/2020,Horror,Taiwanese,4.4,71049,2020-12-01,Lahore Nights_Taiwanese_Horror,42631.16
+Kochi Waves,10/7/2020,Horror,Taiwanese,4.2,63873,2021-08-01,Kochi Waves_Taiwanese_Horror,38325.479999999996
+Desert Trek,4/1/2022,Comedy,Taiwanese,4.0,123180,2022-12-01,Desert Trek_Taiwanese_Comedy,73909.6
+Sunset Vows,7/6/2021,Documentary,Taiwanese,4.4,53533,2022-08-01,Sunset Vows_Taiwanese_Documentary,32121.559999999998
+Tech Singularity,6/9/2022,Drama/Thriller,Taiwanese,3.7,87108,2023-11-01,Tech Singularity_Taiwanese_Drama/Thriller,52266.28
+Distant Star,1/17/2022,Comedy,Taiwanese,3.9,100154,2023-04-01,Distant Star_Taiwanese_Comedy,60093.95999999999
+A Summer Dream,10/20/2023,Comedy,Taiwanese,4.7,132307,2024-05-01,A Summer Dream_Taiwanese_Comedy,79386.08
+Seoul Heartbeat,6/3/2020,Horror,Taiwanese,4.5,68107,2021-09-01,Seoul Heartbeat_Taiwanese_Horror,40866.0
+Kandy Dreams,2/13/2021,Horror,Taiwanese,4.0,109541,2021-10-01,Kandy Dreams_Taiwanese_Horror,65726.2
+Sunset Vows,6/9/2022,Action/Sci-Fi,Taiwanese,4.9,152058,2022-07-01,Sunset Vows_Taiwanese_Action/Sci-Fi,91236.76000000001
+Mumbai Saga,6/25/2022,Horror,Taiwanese,4.7,119449,2022-10-01,Mumbai Saga_Taiwanese_Horror,71671.28
+Kandy Dreams,7/18/2021,Documentary,Taiwanese,3.7,29901,2023-02-01,Kandy Dreams_Taiwanese_Documentary,17942.079999999998
+Tokyo Drift 2,8/19/2020,Romance,Taiwanese,4.7,81243,2022-05-01,Tokyo Drift 2_Taiwanese_Romance,48747.67999999999
+Seoul Heartbeat,2/12/2021,Horror,Taiwanese,4.7,48571,2022-07-01,Seoul Heartbeat_Taiwanese_Horror,29144.48
+The Last Samurai,11/16/2024,Comedy,Taiwanese,4.0,114910,2025-10-01,The Last Samurai_Taiwanese_Comedy,68947.6
+Silent Echoes,5/27/2023,Drama/Thriller,Taiwanese,4.6,94433,2024-03-01,Silent Echoes_Taiwanese_Drama/Thriller,56661.63999999999
+A Summer Dream,1/13/2022,Romance,Taiwanese,4.3,104264,2022-10-01,A Summer Dream_Taiwanese_Romance,62560.119999999995
+The Quantum Helix,5/12/2022,Documentary,Taiwanese,4.5,49289,2022-10-01,The Quantum Helix_Taiwanese_Documentary,29575.199999999997
+Midnight Train,7/8/2020,Comedy,Taiwanese,3.6,87394,2022-03-01,Midnight Train_Taiwanese_Comedy,52437.840000000004
+The Warrior King,5/27/2020,Drama/Thriller,Taiwanese,3.9,67016,2021-01-01,The Warrior King_Taiwanese_Drama/Thriller,40211.159999999996
+Future City,3/7/2023,Romance,Taiwanese,4.4,79273,2023-06-01,Future City_Taiwanese_Romance,47565.56
+Heartbreak Hotel,2/21/2020,Action/Sci-Fi,Taiwanese,3.9,158621,2021-07-01,Heartbreak Hotel_Taiwanese_Action/Sci-Fi,95174.15999999999
+The Quantum Helix,6/26/2024,Drama/Thriller,Taiwanese,3.7,66787,2025-07-01,The Quantum Helix_Taiwanese_Drama/Thriller,40073.68
+Eternal Hope,1/2/2024,Comedy,Taiwanese,4.8,100147,2024-04-01,Eternal Hope_Taiwanese_Comedy,60090.119999999995
+Future City,1/15/2021,Romance,Taiwanese,4.9,95716,2021-07-01,Future City_Taiwanese_Romance,57431.56
+Digital Dawn,3/28/2020,Horror,Taiwanese,4.3,57784,2020-11-01,Digital Dawn_Taiwanese_Horror,34672.12
+Cosmic Drift,10/24/2023,Documentary,Taiwanese,4.4,53881,2024-02-01,Cosmic Drift_Taiwanese_Documentary,32330.359999999997
+Digital Dawn,6/14/2021,Comedy,Taiwanese,3.9,95827,2022-07-01,Digital Dawn_Taiwanese_Comedy,57497.759999999995
+Silent Echoes,10/7/2024,Action/Sci-Fi,Taiwanese,4.5,116940,2025-09-01,Silent Echoes_Taiwanese_Action/Sci-Fi,70165.8
+The King's Guard,5/8/2023,Romance,Pakistani,4.3,81704,2025-01-01,The King's Guard_Pakistani_Romance,49024.12
+Distant Star,6/8/2021,Horror,Pakistani,4.3,113347,2021-10-01,Distant Star_Pakistani_Horror,68009.92
+Lahore Nights,5/8/2021,Documentary,Pakistani,4.1,49904,2022-08-01,Lahore Nights_Pakistani_Documentary,29944.039999999997
+Digital Dawn,2/7/2023,Documentary,Pakistani,4.4,38437,2023-10-01,Digital Dawn_Pakistani_Documentary,23063.96
+Urban Chaos,6/28/2022,Action/Sci-Fi,Pakistani,4.6,129958,2023-06-01,Urban Chaos_Pakistani_Action/Sci-Fi,77976.64
+Love in the Frost,9/30/2024,Comedy,Pakistani,4.8,114768,2025-09-01,Love in the Frost_Pakistani_Comedy,68862.72
+Mumbai Saga,10/17/2023,Comedy,Pakistani,4.7,86511,2025-08-01,Mumbai Saga_Pakistani_Comedy,51908.479999999996
+Cosmic Drift,12/3/2022,Drama/Thriller,Pakistani,4.4,68003,2023-05-01,Cosmic Drift_Pakistani_Drama/Thriller,40803.56
+Love in the Frost,5/16/2024,Comedy,Pakistani,4.5,86877,2024-06-01,Love in the Frost_Pakistani_Comedy,52128.0
+Dragon's Fury,4/8/2021,Drama/Thriller,Pakistani,4.2,75782,2022-12-01,Dragon's Fury_Pakistani_Drama/Thriller,45470.88
+Sunset Vows,4/25/2023,Comedy,Pakistani,4.9,90196,2023-09-01,Sunset Vows_Pakistani_Comedy,54119.56
+Cosmic Drift,2/27/2020,Horror,Pakistani,4.2,56428,2020-08-01,Cosmic Drift_Pakistani_Horror,33858.479999999996
+A Summer Dream,7/31/2023,Horror,Pakistani,4.4,68602,2025-02-01,A Summer Dream_Pakistani_Horror,41162.96
+Cosmic Drift,11/17/2021,Romance,Pakistani,4.8,83883,2023-03-01,Cosmic Drift_Pakistani_Romance,50331.719999999994
+Kandy Dreams,1/26/2022,Comedy,Pakistani,4.7,93376,2023-06-01,Kandy Dreams_Pakistani_Comedy,56027.479999999996
+Seoul Heartbeat,7/11/2022,Action/Sci-Fi,Pakistani,4.3,129825,2023-05-01,Seoul Heartbeat_Pakistani_Action/Sci-Fi,77896.72
+Mirror Maze,2/17/2021,Drama/Thriller,Pakistani,3.8,93583,2022-08-01,Mirror Maze_Pakistani_Drama/Thriller,56151.31999999999
+Distant Star,2/17/2024,Drama/Thriller,Pakistani,4.4,70973,2025-11-01,Distant Star_Pakistani_Drama/Thriller,42585.56
+Heartbreak Hotel,11/8/2024,Comedy,Pakistani,4.2,112461,2025-02-01,Heartbreak Hotel_Pakistani_Comedy,67478.27999999998
+The Warrior King,12/8/2023,Horror,Pakistani,4.3,130547,2025-10-01,The Warrior King_Pakistani_Horror,78329.92
+The Warrior King,5/29/2022,Romance,Pakistani,4.0,100266,2023-08-01,The Warrior King_Pakistani_Romance,60161.2
+Distant Star,12/6/2024,Action/Sci-Fi,Pakistani,4.1,125995,2025-02-01,Distant Star_Pakistani_Action/Sci-Fi,75598.64
+Desert Trek,3/19/2021,Drama/Thriller,Pakistani,4.7,94718,2021-05-01,Desert Trek_Pakistani_Drama/Thriller,56832.67999999999
+Mirror Maze,5/16/2021,Comedy,Pakistani,4.3,112307,2021-10-01,Mirror Maze_Pakistani_Comedy,67385.92
+The Warrior King,10/16/2020,Comedy,Pakistani,4.8,98257,2021-10-01,The Warrior King_Pakistani_Comedy,58956.119999999995
+Silent Echoes,5/30/2020,Drama/Thriller,Pakistani,4.0,68793,2021-08-01,Silent Echoes_Pakistani_Drama/Thriller,41277.399999999994
+Tech Singularity,7/22/2022,Action/Sci-Fi,Pakistani,4.2,124400,2023-01-01,Tech Singularity_Pakistani_Action/Sci-Fi,74641.68
+Dragon's Fury,3/16/2024,Action/Sci-Fi,Pakistani,4.7,107344,2025-08-01,Dragon's Fury_Pakistani_Action/Sci-Fi,64408.27999999999
+Cosmic Drift,12/15/2023,Drama/Thriller,Pakistani,3.9,73947,2025-01-01,Cosmic Drift_Pakistani_Drama/Thriller,44369.759999999995
+The Last Samurai,10/11/2021,Action/Sci-Fi,Pakistani,4.4,116492,2023-09-01,The Last Samurai_Pakistani_Action/Sci-Fi,69896.95999999999
+Love in the Frost,9/4/2021,Drama/Thriller,Pakistani,3.7,74402,2023-02-01,Love in the Frost_Pakistani_Drama/Thriller,44642.68
+Dragon's Fury,12/9/2024,Romance,Pakistani,4.7,87690,2026-07-01,Dragon's Fury_Pakistani_Romance,52615.88
+Cosmic Drift,1/19/2023,Documentary,Pakistani,4.1,39467,2023-07-01,Cosmic Drift_Pakistani_Documentary,23681.84
+Love in the Frost,8/21/2024,Documentary,Pakistani,4.6,39207,2024-09-01,Love in the Frost_Pakistani_Documentary,23526.04
+Mumbai Saga,2/24/2024,Comedy,Pakistani,4.8,85100,2024-11-01,Mumbai Saga_Pakistani_Comedy,51061.92
+The Green Line,1/4/2022,Romance,Pakistani,3.9,83268,2022-10-01,The Green Line_Pakistani_Romance,49962.35999999999
+The Quantum Helix,4/18/2023,Drama/Thriller,Pakistani,4.5,88114,2024-04-01,The Quantum Helix_Pakistani_Drama/Thriller,52870.200000000004
+Chennai Express,5/19/2024,Action/Sci-Fi,Pakistani,4.5,132198,2024-08-01,Chennai Express_Pakistani_Action/Sci-Fi,79320.6
+Kochi Waves,8/2/2024,Drama/Thriller,Pakistani,4.4,91648,2025-10-01,Kochi Waves_Pakistani_Drama/Thriller,54990.56
+Lahore Nights,2/25/2023,Drama/Thriller,Pakistani,4.8,92721,2024-03-01,Lahore Nights_Pakistani_Drama/Thriller,55634.52
