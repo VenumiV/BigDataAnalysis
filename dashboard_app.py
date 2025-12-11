@@ -127,13 +127,25 @@ with tab2:
 # ========================= TAB 3 =========================
 with tab3:
     st.subheader("Top 10 Films by Popularity Score")
+    film_category_pop = (
+        filtered_df.groupby(["Film_Name", "Category"])["Popularity_Score"]
+        .sum()
+        .reset_index()
+    )
+
     top_films = (
-        filtered_df.groupby("Film_Name")["Popularity_Score"]
+        film_category_pop.groupby("Film_Name")["Popularity_Score"]
         .sum()
         .sort_values(ascending=False)
         .head(10)
     )
-    st.write(top_films)
+
+    film_table = (
+        film_category_pop[film_category_pop["Film_Name"].isin(top_films.index)]
+        .sort_values(by=["Popularity_Score"], ascending=False)
+    )
+
+    st.dataframe(film_table)
     st.bar_chart(top_films)
 
 # ========================= TAB 4 =========================
