@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+import plotly.express as px
 # Page settings
 st.set_page_config(
     page_title="IMovie Dashboard",
@@ -15,6 +15,7 @@ df = pd.read_csv("cleaned_film_data.csv")
 df["Viewing_Month"] = pd.to_datetime(df["Viewing_Month"])
 df["Year"] = df["Viewing_Month"].dt.year
 df["Popularity_Score"] = df["Viewer_Rate"] * df["Number_of_Views"]
+df.groupby(["Year","Category"])["Number_of_Views"].sum()
 
 # ======== Sidebar ========
 st.sidebar.title("Filters")
@@ -72,11 +73,27 @@ tab1, tab2, tab3, tab4 = st.tabs([
 with tab1:
     st.subheader("Views by Category")
     category_views = filtered_df.groupby("Category")["Number_of_Views"].sum()
-    st.bar_chart(category_views)
+    fig = px.bar(
+    category_views.reset_index(),
+    x="Category",
+    y="Number_of_Views",
+    color="Number_of_Views",
+    title="Views by Category",
+    text_auto=".2s"
+)
+    st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("Average Viewer Rate by Category")
     category_ratings = filtered_df.groupby("Category")["Viewer_Rate"].mean()
-    st.line_chart(category_ratings)
+    fig = px.line(
+    category_ratings.reset_index(),
+    x="Category",
+    y="Viewer_Rate",
+    markers=True,
+    title="Average Viewer Rate by Category"
+)
+    st.plotly_chart(fig, use_container_width=True)
+
 
 # ========================= TAB 2 =========================
 
@@ -90,7 +107,17 @@ with tab2:
     lang_views = filtered_df.groupby("Language")["Number_of_Views"].sum()
 
     if not lang_views.empty:
-        st.bar_chart(lang_views)
+        
+        fig = px.bar(
+        lang_views.reset_index(),
+        x="Language",
+        y="Number_of_Views",
+        color="Number_of_Views",
+        title="Views by Language",
+        text_auto=".2s"
+)
+        st.plotly_chart(fig, use_container_width=True)
+
     else:
         st.warning("No data available for selected filters.")
 
@@ -126,7 +153,19 @@ with tab4:
     cat_pred_df.columns = ["Category", "Predicted_Popularity"]
 
     st.write(cat_pred_df)
-    st.bar_chart(cat_pred_df.set_index("Category"))
+    
+    fig = px.bar(
+    cat_pred_df,
+    x="Category",
+    y="Predicted_Popularity",
+    color="Predicted_Popularity",
+    title="Predicted Best-Performing Categories in 2026",
+    text_auto=".2s"
+)
+    st.plotly_chart(fig, use_container_width=True)
+
+
+    
 
     # ================= LANGUAGE PREDICTION =================
     st.markdown("### 🔹 Predicted Best-Performing Languages in 2026")
@@ -140,7 +179,17 @@ with tab4:
     lang_pred_df.columns = ["Language", "Predicted_Popularity"]
 
     st.write(lang_pred_df)
-    st.bar_chart(lang_pred_df.set_index("Language"))
+    
+    fig = px.bar(
+    lang_pred_df,
+    x="Language",
+    y="Predicted_Popularity",
+    color="Predicted_Popularity",
+    title="Predicted Best-Performing Languages in 2026",
+    text_auto=".2s"
+)
+    st.plotly_chart(fig, use_container_width=True)
+
 
     st.info("""
     Predictive Method Used:
