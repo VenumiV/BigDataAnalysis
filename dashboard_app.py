@@ -40,7 +40,7 @@ filtered_df = df[
 ]
 
 # ======== Title ========
-st.title("🎬 IMovie – December 2025 Marketing Strategy Dashboard")
+st.title("IMovie – December 2025 Marketing Strategy Dashboard")
 st.write("**Interactive dashboard for category insights, language trends, top films & future predictions.**")
 st.markdown("---")
 
@@ -111,11 +111,11 @@ with tab3:
 
 # ========================= TAB 4 =========================
 with tab4:
-    st.subheader("🎯 Predicted Most-Loved Films for 2026")
+    st.subheader("Predicted Most-Loved Films for 2026")
 
 
     # ================= CATEGORY PREDICTION =================
-    st.markdown("### 🔹 Predicted Best-Performing Categories in 2026")
+    st.markdown("### Predicted Best-Performing Categories in 2026")
     cat_pred = (
         df.groupby("Category")["Popularity_Score"]
         .mean()
